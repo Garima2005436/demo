@@ -47,11 +47,11 @@ This project showcases an end-to-end sales analysis of a chocolate manufacturing
 
 ### Dataset & Problem Statement
 
-![Problem Statement](images/Problem_statement.png)
+![Problem Statement]()
 
 ### Dynamic Country-Level Sales Report
 
-![Dynamic Report](images/Dynamic_Country_Sales_Report.png)
+![Dynamic Report]()
 
 ### Product Profitability Analysis
 
