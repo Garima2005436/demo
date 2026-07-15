@@ -55,19 +55,19 @@ This project showcases an end-to-end sales analysis of a chocolate manufacturing
 
 ### Product Profitability Analysis
 
-![Profit Analysis](images/Profit_by_Product.png)
+![Profit Analysis](images/Profit by Product.png)
 
 ### Product Discontinuation Analysis
 
-![Products to Discontinue](images/Product_to_Discontinue.png)
+![Products to Discontinue](images/Product to Discontinue.png)
 
 ### Sales by Country Analysis
 
-![Sales by Country](images/Sales_by_Country.png)
+![Sales by Country](images/Sales by Country.png)
 
 ### Anomaly Detection
 
-![Anomaly Detection](images/Anomaly_Detection.png)
+![Anomaly Detection](images/Anomaly Detection.png)
 
 ---
 
